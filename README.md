@@ -52,7 +52,8 @@ This project demonstrates end-to-end Power BI skills, including:
 
 ## *Dashboard Screenshots*
 
-![Dashboard Overview](dashboard_screenshot1.png)  
+![Dashboard Overview](https://github.com/Sameer-2025-web/Sales-Insights-Dashboard-Data-Analysis-Project/blob/main/Screenshot%20of%20Sales%20Insights%20Dashboard%20Data%20Analysis%20Project.png
+)  
 
 
 
