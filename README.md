@@ -60,7 +60,7 @@ This project demonstrates end-to-end Power BI skills, including:
 
 
 ## *How to Use*
-1. Download the Sales_Insights.pbix file from this repository.  
+1. Download the Sales Insights Dashboard.pbix file from this repository.  
 2. Open it in *Power BI Desktop (free version)*.  
 3. Explore the interactive dashboard by using slicers and filters to analyze insights.
 
